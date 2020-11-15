@@ -1,0 +1,1 @@
+# netlify-cors-proxy-for-gas
